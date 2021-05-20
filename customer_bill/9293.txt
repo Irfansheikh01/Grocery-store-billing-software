@@ -1,0 +1,13 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 9293
+ Customer Name : Irfan
+ Phone Number : 11
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		30
+--------------------------------------
+ Cosmatic Tax			Rs. 1.5
+ Total Bill:			Rs. 31.5
+--------------------------------------

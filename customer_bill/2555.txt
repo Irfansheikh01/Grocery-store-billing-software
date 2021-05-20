@@ -1,0 +1,23 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 2555
+ Customer Name : Kittu
+ Phone Number : 45453545
+======================================
+ Products		QTY		Price
+======================================
+ Dove		2		80
+ Ponds FC		1		60
+ Himalaya Neem		2		120
+ Yardly London		1		220
+ Garnier HG		1		25
+ Joy		1		25
+ Rice		1		60
+ Tea		1		150
+ Maza		2		120
+--------------------------------------
+ Cosmatic Tax			Rs. 26.5
+ Grocery Tax			Rs. 21.0
+ Cold Drink Tax			Rs. 6.0
+ Total Bill:			Rs. 913.5
+--------------------------------------

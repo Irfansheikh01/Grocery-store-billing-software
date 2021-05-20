@@ -1,0 +1,16 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 1395
+ Customer Name : Mumta
+ Phone Number : 146464
+======================================
+ Products		QTY		Price
+======================================
+ Rice		1		60
+ Tea		1		150
+ Maza		1		60
+--------------------------------------
+ Grocery Tax			Rs. 21.0
+ Cold Drink Tax			Rs. 3.0
+ Total Bill:			Rs. 294.0
+--------------------------------------

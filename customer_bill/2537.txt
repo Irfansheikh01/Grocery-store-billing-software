@@ -1,0 +1,14 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 2537
+ Customer Name : ehfjak
+ Phone Number : 444
+======================================
+ Products		QTY		Price
+======================================
+--------------------------------------
+ Cosmatic Tax			
+ Grocery Tax			
+ Cold Drink Tax			
+ Total Bill:			Rs. 110.25
+--------------------------------------

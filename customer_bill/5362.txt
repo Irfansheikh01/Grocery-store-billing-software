@@ -1,0 +1,17 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 5362
+ Customer Name : Rohit
+ Phone Number : 85
+======================================
+ Products		QTY		Price
+======================================
+ Rice		1		60
+ ThumbsUp		4		320
+ Frooty		2		160
+ Coka Cola		2		140
+--------------------------------------
+ Grocery Tax			Rs. 6.0
+ Cold Drink Tax			Rs. 31.0
+ Total Bill:			Rs. 717.0
+--------------------------------------

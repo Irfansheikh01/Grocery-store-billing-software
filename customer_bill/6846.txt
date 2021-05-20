@@ -1,0 +1,19 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 6846
+ Customer Name : Hidayat
+ Phone Number : 5484284
+======================================
+ Products		QTY		Price
+======================================
+ Lux		1		30
+ Boroplus		2		80
+ Fogg		1		180
+ Tea		1		150
+ Maza		2		120
+--------------------------------------
+ Cosmatic Tax			Rs. 14.5
+ Grocery Tax			Rs. 15.0
+ Cold Drink Tax			Rs. 6.0
+ Total Bill:			Rs. 595.5
+--------------------------------------

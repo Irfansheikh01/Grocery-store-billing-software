@@ -1,0 +1,15 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 5841
+ Customer Name : Kaif
+ Phone Number : 8555252
+======================================
+ Products		QTY		Price
+======================================
+ Face Cream		1		120
+ Daal		1		80
+--------------------------------------
+ Cosmatic Tax			Rs. 6.0
+ Grocery Tax			Rs. 8.0
+ Total Bill:			Rs. 214.0
+--------------------------------------

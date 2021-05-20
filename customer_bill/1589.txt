@@ -1,0 +1,18 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 1589
+ Customer Name : Anam
+ Phone Number : 7020021498
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		2		80
+ Body Lotion		1		180
+ Rice		25		1500
+ Frooty		1		80
+--------------------------------------
+ Cosmatic Tax			Rs. 13.0
+ Grocery Tax			Rs. 150.0
+ Cold Drink Tax			Rs. 4.0
+ Total Bill:			Rs. 2007.0
+--------------------------------------

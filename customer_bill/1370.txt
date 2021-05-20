@@ -1,0 +1,20 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 1370
+ Customer Name : Sadik
+ Phone Number : 6464354186
+======================================
+ Products		QTY		Price
+======================================
+ Dettol		1		20
+ Gori		2		150
+ Garnier Men		1		65
+ Vasline		1		35
+ Tea		1		150
+ Maza		2		120
+--------------------------------------
+ Cosmatic Tax			Rs. 13.5
+ Grocery Tax			Rs. 15.0
+ Cold Drink Tax			Rs. 6.0
+ Total Bill:			Rs. 574.5
+--------------------------------------

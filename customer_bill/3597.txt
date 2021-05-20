@@ -1,0 +1,20 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 3597
+ Customer Name : Suhana
+ Phone Number : 245354385
+======================================
+ Products		QTY		Price
+======================================
+ Lux		2		60
+ Fair&Lovly		1		55
+ Himalaya Neem		2		120
+ Vasline		1		35
+ Tea		1		150
+ Maza		1		60
+--------------------------------------
+ Cosmatic Tax			Rs. 13.5
+ Grocery Tax			Rs. 15.0
+ Cold Drink Tax			Rs. 3.0
+ Total Bill:			Rs. 511.5
+--------------------------------------

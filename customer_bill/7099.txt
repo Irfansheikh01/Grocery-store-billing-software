@@ -1,0 +1,16 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 7099
+ Customer Name : Irfan
+ Phone Number : 84103322222
+======================================
+ Products		QTY		Price
+======================================
+ Rice		2		120
+ Food Oil		2		220
+ Frooty		1		80
+--------------------------------------
+ Grocery Tax			Rs. 34.0
+ Cold Drink Tax			Rs. 4.0
+ Total Bill:			Rs. 458.0
+--------------------------------------

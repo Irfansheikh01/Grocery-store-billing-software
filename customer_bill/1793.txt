@@ -1,0 +1,17 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 1793
+ Customer Name : Arjun
+ Phone Number : 7711021356
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		2		80
+ Food Oil		1		110
+ Maza		3		180
+--------------------------------------
+ Cosmatic Tax			Rs. 4.0
+ Grocery Tax			Rs. 11.0
+ Cold Drink Tax			Rs. 9.0
+ Total Bill:			Rs. 394.0
+--------------------------------------

@@ -1,0 +1,15 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 5955
+ Customer Name : Raman
+ Phone Number : 8668261216
+======================================
+ Products		QTY		Price
+======================================
+ Fogg		1		180
+ Wild Stone HG		1		40
+ Nova		1		30
+--------------------------------------
+ Cosmatic Tax			Rs. 12.5
+ Total Bill:			Rs. 262.5
+--------------------------------------

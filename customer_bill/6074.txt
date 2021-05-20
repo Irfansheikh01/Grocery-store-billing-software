@@ -1,0 +1,13 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 6074
+ Customer Name : Irfan
+ Phone Number : 8411031956
+======================================
+ Products		QTY		Price
+======================================
+ Dettol		2		40
+--------------------------------------
+ Cosmatic Tax			Rs. 2.0
+ Total Bill:			Rs. 42.0
+--------------------------------------

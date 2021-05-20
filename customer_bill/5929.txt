@@ -1,0 +1,21 @@
+	Welcome to Irfan Retail
+
+ Bill Number : 5929
+ Customer Name : Imran
+ Phone Number : 8554969793
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		2		80
+ Face Wash		1		60
+ Body Lotion		1		180
+ Rice		2		120
+ Tea		1		150
+ Daal		1		80
+ Maza		1		60
+--------------------------------------
+ Cosmatic Tax			Rs. 16.0
+ Grocery Tax			Rs. 35.0
+ Cold Drink Tax			Rs. 3.0
+ Total Bill:			Rs. 784.0
+--------------------------------------
